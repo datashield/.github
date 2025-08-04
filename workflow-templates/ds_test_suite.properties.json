@@ -1,0 +1,8 @@
+{
+    "name": "DataSHIELD test suite Workflow",
+    "description": "DataSHIELD test suite workflow template.",
+    "iconName": "server-24",
+    "categories": [
+        "R"
+    ]
+}
